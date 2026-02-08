@@ -1,73 +1,69 @@
-# Welcome to your Lovable project
+# 🚀 Nexveior — Developer Portfolio
 
-## Project info
+A modern personal portfolio website built to showcase projects, skills, and design work.  
+Focused on clean UI, smooth animations, and a premium dark-themed aesthetic.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+---
 
-## How can I edit this code?
+## 🌍 Live Website
+👉 https://nexveior.github.io/
 
-There are several ways of editing your application.
+---
 
-**Use Lovable**
+## 📌 About
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+This portfolio represents my work as a frontend developer and UI designer.  
+It highlights selected projects, design-focused websites, and modern web experiences built for performance and visual impact.
 
-Changes made via Lovable will be committed automatically to this repo.
+The website is designed to be minimal, responsive, and client-ready.
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## ✨ Features
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+- 🌙 Dark-themed premium design  
+- 🎨 Clean layouts with modern UI  
+- ✨ Smooth animations and transitions  
+- 📱 Fully responsive across devices  
+- 🧩 Project showcase with live demos  
+- 🔗 External links to demos and repositories  
 
-Follow these steps:
+---
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+## 🛠 Tech Stack
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+- Vite  
+- React  
+- TypeScript  
+- Tailwind CSS  
+- shadcn/ui  
+- GitHub Pages  
 
-# Step 3: Install the necessary dependencies.
-npm i
+---
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+## 📂 Projects Highlighted
 
-**Edit a file directly in GitHub**
+- **TestSMP** — Minecraft SMP website showcase  
+- **FiveM Server Website** — Gaming community site  
+- **Additional UI & frontend projects**
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+---
 
-**Use GitHub Codespaces**
+## 👨‍💻 About Me
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+**Nexveior**  
+Frontend Developer & UI Designer  
 
-## What technologies are used for this project?
+📧 Email: nexveior@gmail.com  
+🌐 Portfolio: https://nexveior.github.io/  
 
-This project is built with:
+---
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+## 📜 License
 
-## How can I deploy this project?
+This project is intended for **portfolio and personal use**.  
+Designs and code may not be reused or resold without permission.
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+---
 
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+⭐ If you like my work, feel free to star the repository!
